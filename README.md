@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Nuttapong Punpipat (NP-chaonay)
+# Hi there 👋, I'm Nuttapong Punpipat (NP-chaonay)
 
 <!--
 **NP-chaonay/NP-chaonay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
