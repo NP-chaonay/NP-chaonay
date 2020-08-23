@@ -32,7 +32,7 @@ And __Hello__ __Everyone__ __!__
 - 🏫️ Education Status: _"Being in high school"_
 - ⭐️ My Favorite Topics: _"Computer Software / Music / Social and Organization; (Descending)"_
 - 📲️ Contact information: _"See on "How to reach me""_
-- 💭️ Reasons why I'm here at GitHub: _"nearly-graduted high-school student"_
+- 💭️ Reasons why I'm here at GitHub: _"To publish my software, To see what's going on or being popular, To know one's codes."_
 
 - 🔭 I’m currently working on _"nothing"_
 - 🌱 I’m currently learning _"University Admission Academic"_
