@@ -35,4 +35,4 @@ And __Hello__ __Everyone__ __!__
 - 📫 How to reach me: _"E-Mail ("nuttapongpunpipat@gmail.com") may be the best way, However there are some way such as messaging via FB,Twitter"_
 - 😄 Pronouns: _"Up to you, lol"_
 - ⚡ Fun fact: _"from np_chaonay.humour.main import *"_
-- Facts about me / My additional information: _"https://drive.google.com/file/d/1GI0K93ZGf0ZpOMXV-YTBVILNsj-4ZWoF/view?usp=sharing"_
+- ℹ️ Facts about me / My additional information: _"https://drive.google.com/file/d/1GI0K93ZGf0ZpOMXV-YTBVILNsj-4ZWoF/view?usp=sharing"_
