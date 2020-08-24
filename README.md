@@ -34,7 +34,7 @@ And __Hello__ __Everyone__ __!__
 - 📲️ Contact information: _"See on "How to reach me""_
 
 - 💭️ Reasons why I'm here at GitHub/Gist: _"To publish my software, To see what's going on or being popular, To know one's codes."_
-- 💾 My most 3 dominant projects/sources on GitHub/Gist (Descending): _"PythonPkg-np_chaonay / MusicKeyModeClassifcation-1.py / Todo_Academic_Record.py"_
+- 💾 My most 3 dominant projects/sources on GitHub/Gist (Descending): _"See on pinned repo./Gists."_
 
 - 🔭 I’m currently working on _"nothing"_
 - 🌱 I’m currently learning _"University Admission Academic"_
