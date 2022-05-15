@@ -27,9 +27,9 @@ __Hello,__ __Thailand__ __!__
 __Hello,__ __World__ __!__
 And __Hello__ __Everyone__ __!__
 
-- 🚹️ My Status: _"a nearly-graduted high-school student"_
-- 🏢️ Work Status: _"Unemployed / Student"_
-- 🏫️ Education Status: _"Being in high school"_
+- 🚹️ My Status: _"2rd year university student"_
+- 🏢️ Work Status: _"Unemployed / University Student"_
+- 🏫️ Education Status: _"2rd year university"_
 - ⭐️ My Favorite Topics (Descending): _"Computer Software / Music / Social and Organization"_
 - 📲️ Contact information: _"See on "How to reach me""_
 
