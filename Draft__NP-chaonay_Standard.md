@@ -1,3 +1,5 @@
+// This message meant to override all of lines below this. This draft has been cancelled and just only for internal (my actions/operations) reference.
+
 // THIS IS NOT CODE, BUT THE DRAFT OF "NP-chaonay" STANDARD ON STUFF SUCH AS CODING, SOURCE-CODE-COLLABORATION; BUT NOT LIMITED TO.
 
 # Coding
