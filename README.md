@@ -41,7 +41,7 @@ And __Hello__ __Everyone__ __!__
 - 👯 I’m looking to collaborate on _"nothing for now"_
 - 🤔 I’m looking for help with _"nothing for now"_
 - 💬 Ask me about _"any bugs found on my owned software"_
-- 📫 How to reach me: _"E-Mail (nuttapongpunpipat@gmail.com) may be the best way, However there are some way such as messaging via FB,Twitter, For more information: See on "Facts about me / My additional information""_
+- 📫 How to reach me: _"E-Mail (nuttapongpunpipat@gmail.com) may be the best way, However there are some way such as messaging via FB; For more information: See on "Facts about me / My additional information""_
 - 😄 Pronouns: _"Up to you, lol"_
 - ⚡ Fun fact: _"from np_chaonay.humour.main import *"_
 
