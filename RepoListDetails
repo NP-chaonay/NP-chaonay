@@ -1,11 +1,13 @@
 # This file contains details of all my public repos.
 
-[NP-chaonay]
+[List]
+	+ NP-chaonay
+		Tags += [OnlyMainBranch]
+	+ (Fork repo) linuxjourney_addL18Nth
+		Tags += [ThaiLocalization]
+	+ (Fork repo) howdy_fixissue1_retake1
+		Tags += [BugFix]
+	(wait for adding) ...
 
-(Fork repo) [linuxjourney_addL18Nth]
-Tags += [ThaiLocalization]
-
-(Fork repo) [howdy_fixissue1_retake1]
-Tags += [BugFix]
-
-(wait for adding) ...
+[Keys]
+- Tag Description: OnlyMainBranch = "Repo that designed to have one branch, or not designed to require using branch feature"
