@@ -4,6 +4,9 @@
 	+ NP-chaonay
 		License = Custom_with_MIT_fallback
 		Tags += [OnlyMainBranch]
+	+ Misc
+		License = Custom_with_MIT_fallback
+		Tags += [OnlyMainBranch]
 	+ (Fork repo) linuxjourney_addL18Nth
 		License = NotAvailableYet_WaitAdding
 		Tags += [ThaiLocalization]
@@ -14,3 +17,8 @@
 
 [Keys]
 - Tag Description: OnlyMainBranch = "Repo that designed to have one branch, or not designed to require using branch feature"
+
+[AvailableTags]
+- OnlyMainBranch
+- ThaiLocalization
+- BugFix
