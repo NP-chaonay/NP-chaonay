@@ -1,4 +1,5 @@
 # Hi there 👋, I'm Nuttapong Punpipat (NP-chaonay)
+**Remarks: This NP-chaonay/NP-chaonay repo not just contains this README.md but repo lists and their details and that is the main repo of me. For misc thing gone to NP-chaonay/Misc. Enjoy searching!**
 
 <!--
 **NP-chaonay/NP-chaonay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
