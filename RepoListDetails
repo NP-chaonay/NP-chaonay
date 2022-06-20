@@ -2,10 +2,10 @@
 
 [List]
 	+ NP-chaonay
-		License = Custom_with_MIT_fallback
+		License = Custom_with_MIT_fallback (internally from Main_with_MIT_fallback_v1)
 		Tags += [OnlyMainBranch]
 	+ Misc
-		License = Custom_with_MIT_fallback
+		License = Custom_with_MIT_fallback (internally from Main_with_MIT_fallback_v1)
 		Tags += [OnlyMainBranch]
 	+ (Fork repo) linuxjourney_addL18Nth
 		License = NotAvailableYet_WaitAdding
@@ -22,3 +22,6 @@
 - OnlyMainBranch
 - ThaiLocalization
 - BugFix
+
+[Remarks]
+- "internally from" in context of license parameter means: what license template in my collection is used
