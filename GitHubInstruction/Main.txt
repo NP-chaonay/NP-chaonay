@@ -1,0 +1,5 @@
+[When handle my Github local repo]
+1) git pull
+
+[When to leave my Github local repo]
+1) always sync to remote ASAP (if possible, do it now)

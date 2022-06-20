@@ -2,7 +2,7 @@
 
 [List]
 	+ NP-chaonay
-		License = NotAvailableYet_WaitAdding
+		License = Custom_with_MIT_fallback
 		Tags += [OnlyMainBranch]
 	+ (Fork repo) linuxjourney_addL18Nth
 		License = NotAvailableYet_WaitAdding
