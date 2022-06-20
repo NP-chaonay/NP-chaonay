@@ -3,25 +3,26 @@
 [List]
 	+ NP-chaonay
 		License = Custom_with_MIT_fallback (internally from Main_with_MIT_fallback_v1)
+		Tags += [OnlyMainBranch,OpenCollaborationDesigned]
+	+ NPc_LinuxImprovement
+		License = Custom_with_MIT_fallback (internally from Main_with_MIT_fallback_v1)
 		Tags += [OnlyMainBranch]
 	+ Misc
 		License = Custom_with_MIT_fallback (internally from Main_with_MIT_fallback_v1)
 		Tags += [OnlyMainBranch]
 	+ (Fork repo) linuxjourney_addL18Nth
 		License = NotAvailableYet_WaitAdding
-		Tags += [ThaiLocalization]
+		Tags += [ThaiLocalization,OpenCollaborationDesigned]
 	+ (Fork repo) howdy_fixissue1_retake1
 		License = NotAvailableYet_WaitAdding
-		Tags += [BugFix]
+		Tags += [BugFix,OpenCollaborationDesigned]
 	(wait for adding) ...
 
-[Keys]
-- Tag Description: OnlyMainBranch = "Repo that designed to have one branch, or not designed to require using branch feature"
-
 [AvailableTags]
-- OnlyMainBranch
+- OnlyMainBranch: "Repo that designed to have one branch, or not designed to require using branch feature"
 - ThaiLocalization
 - BugFix
+- OpenCollaborationDesigned: "Repo that wel-designed to have outside-contribution"
 
 [Remarks]
 - "internally from" in context of license parameter means: what license template in my collection is used
