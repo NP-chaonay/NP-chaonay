@@ -2,10 +2,13 @@
 
 [List]
 	+ NP-chaonay
+		License = NotAvailableYet_WaitAdding
 		Tags += [OnlyMainBranch]
 	+ (Fork repo) linuxjourney_addL18Nth
+		License = NotAvailableYet_WaitAdding
 		Tags += [ThaiLocalization]
 	+ (Fork repo) howdy_fixissue1_retake1
+		License = NotAvailableYet_WaitAdding
 		Tags += [BugFix]
 	(wait for adding) ...
 
