@@ -1,5 +1,5 @@
 # Hi there 👋, I'm Nuttapong Punpipat (NP-chaonay)
-**Remarks: This NP-chaonay/NP-chaonay repo not just contains this README.md but repo lists and their details and that is the main repo of me. For misc thing gone to NP-chaonay/Misc. Enjoy searching!**
+**Remarks: This NP-chaonay/NP-chaonay repo not just contains this README.md but repo lists and their details and that is the main repo of me. For misc thing gone to NP-chaonay/Misc. See bottom of the file to see structure detail of this repo. Enjoy searching!**
 
 <!--
 **NP-chaonay/NP-chaonay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -47,3 +47,10 @@ And __Hello__ __Everyone__ __!__
 - ⚡ Fun fact: _"from np_chaonay.humour.main import *"_
 
 - ℹ️ Facts about me / My additional information: _"My AboutMe passage: https://drive.google.com/file/d/1GI0K93ZGf0ZpOMXV-YTBVILNsj-4ZWoF/view?usp=sharing"_
+
+## Repo Structure
+- GitHubInstruction: contains instructions when I handle or work on GitHub things
+- license_template: contains license template
+- LICENSE: License that currently apply on this repo at the time of each commit.
+- README.md: This info. file
+- RepoListDetails: List of registered of my all GitHub repos. Including their details. 
