@@ -55,4 +55,4 @@ and newly __Hello,__ __Musicians__ and __Hello,__ __Wikimedians__ __!__
 - LICENSE: License that currently apply on this repo at the time of each commit.
 - README.md: This info. file
 - RepoListDetails: List of registered of my all GitHub repos. Including their details. 
-- TODO_ONROOTSTRUCTURECHANGED: For author reminder file
+- FOR_AUTHOR_TODO_ONROOTSTRUCTURECHANGED: For author reminder file
