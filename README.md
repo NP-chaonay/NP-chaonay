@@ -27,20 +27,21 @@ __Hello,__ __Experts__ __!__
 __Hello,__ __Thailand__ __!__
 __Hello,__ __World__ __!__
 And __Hello__ __Everyone__ __!__
+and newly __Hello,__ __Musicians__ and __Hello,__ __Wikimedians__ __!__
 
 - 🚹️ My Status: _"2rd year university student"_
 - 🏢️ Work Status: _"Unemployed / University Student"_
 - 🏫️ Education Status: _"2rd year university"_
-- ⭐️ My Favorite Topics (Descending): _"Computer Software / Music / Social and Organization"_
+- ⭐️ My Favorite Topics (Descending): _"Computer Software / Music / Wikimedia / Social and Organization and Bussiness"_
 - 📲️ Contact information: _"See on "How to reach me""_
 
 - 💭️ Reasons why I'm here at GitHub/Gist: _"To publish my software, To see what's going on or being popular, To know one's codes."_
 - 💾 My most 3 dominant projects/sources on GitHub/Gist (Descending): _"See on pinned repo./Gists."_
 
-- 🔭 I’m currently working on _"data science research"_
-- 🌱 I’m currently learning _"University Admission Academic"_
-- 👯 I’m looking to collaborate on _"nothing for now"_
-- 🤔 I’m looking for help with _"nothing for now"_
+- 🔭 I’m currently working on _"Surface Laptop Studio Pen/Touch on Linux experiement"_
+- 🌱 I’m currently learning _"University Bachelor Degree"_
+- 👯 I’m looking to collaborate on _"Linux and Open-Source community"_
+- 🤔 I’m looking for help with _"NP-chaonay/Misc/SurfaceLaptopStudio_LinuxAudioTweak_OnDevicePosture/"_
 - 💬 Ask me about _"any bugs found on my owned software"_
 - 📫 How to reach me: _"E-Mail (nuttapongpunpipat@gmail.com) may be the best way, However there are some way such as messaging via FB; For more information: See on "Facts about me / My additional information""_
 - 😄 Pronouns: _"Up to you, lol"_
