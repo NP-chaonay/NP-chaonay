@@ -4,13 +4,13 @@
 [List]
 	+ NP-chaonay
 		License = Custom_with_MIT_fallback (internally from Main_with_MIT_fallback_v1)
-		Tags += [OnlyMainBranch,OpenCollaborationDesigned]
+		Tags += [OnlyMainBranch,OpenCollaborationDesigned,WaitForDiscussionInit]
 	+ NPc_LinuxImprovement
 		License = Custom_with_MIT_fallback (internally from Main_with_MIT_fallback_v1)
-		Tags += [OnlyMainBranch]
+		Tags += [OnlyMainBranch,WaitForDiscussionInit]
 	+ Misc
 		License = Custom_with_MIT_fallback (internally from Main_with_MIT_fallback_v1)
-		Tags += [OnlyMainBranch]
+		Tags += [OnlyMainBranch,DiscussionTabTest]
 	+ (Fork repo) linuxjourney_addL18Nth
 		License = NotAvailableYet_WaitAdding
 		Tags += [ThaiLocalization,OpenCollaborationDesigned]
@@ -20,6 +20,8 @@
 	(wait for adding) ...
 
 [AvailableTags]
+- WaitForDiscussionInit: The repo desire to have discussion tab enabled, but not yet implemented, wait for some tasks of it or of something else
+- DiscussionTabTest: The repo have discussion tab enabled, but in testing stage, however it is ready to use in production/public
 - OnlyMainBranch: "Repo that designed to have one branch, or not designed to require using branch feature"
 - ThaiLocalization
 - BugFix
