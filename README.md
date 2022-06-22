@@ -48,6 +48,7 @@ and newly __Hello,__ __Musicians__ and __Hello,__ __Wikimedians__ __!__
 - ⚡ Fun fact: _"from np_chaonay.humour.main import *"_
 
 - ℹ️ Facts about me / My additional information: _"My AboutMe passage: https://drive.google.com/file/d/1GI0K93ZGf0ZpOMXV-YTBVILNsj-4ZWoF/view?usp=sharing"_
+  - "Another thing: Sometime I like complexity but some, minimality"
 
 ## Repo Structure
 - GitHubInstruction: contains instructions when I handle or work on GitHub things
