@@ -57,3 +57,4 @@ and newly __Hello,__ __Musicians__ and __Hello,__ __Wikimedians__ __!__
 - README.md: This info. file
 - RepoListDetails: List of registered of my all GitHub repos. Including their details. 
 - FOR_AUTHOR_TODO_ONROOTSTRUCTURECHANGED: For author reminder file
+- MYSELF_UUID: UUID of myself in case of real name is no longer unique.
