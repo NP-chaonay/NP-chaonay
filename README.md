@@ -55,6 +55,6 @@ and newly __Hello,__ __Musicians__ and __Hello,__ __Wikimedians__ __!__
 - license_template: contains license template
 - LICENSE: License that currently apply on this repo at the time of each commit.
 - README.md: This info. file
-- RepoListDetails: List of registered of my all GitHub repos. Including their details. 
+- RepoListDetails: List of registered of my all GitHub repos. Including their details. (Exclude forked repo that  are not registered)
 - FOR_AUTHOR_TODO_ONROOTSTRUCTURECHANGED: For author reminder file
 - MYSELF_UUID: UUID of myself in case of real name is no longer unique.
