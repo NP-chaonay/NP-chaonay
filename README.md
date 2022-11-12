@@ -54,7 +54,7 @@ and newly __Hello,__ __Musicians__ and __Hello,__ __Wikimedians__ __!__
 - FOR_AUTHOR_TODO_ONROOTSTRUCTURECHANGED: For-Author-Reminder file to tell what to do when structure of root folder of repo is changed
 - GitHubInstruction: contains instructions when I handle or work on GitHub things
 - GITHUB_TODO: This file is for telling TODO tasks for my repos and my GitHub public-visibled stuff
-- LICENSE: License that currently apply on this repo at the time of each commit.
+- LICENSE: File for license and legal statement, contains license details and brief (if not all placed) legal details; Each commit of this file enforces on only that commit. The latest commit enforces the remained.
 - license_template: contains license template
 - MYSELF_UUID: UUID of myself in case of real name is no longer unique.
 - README.md: This info. file
