@@ -51,10 +51,11 @@ and newly __Hello,__ __Musicians__ and __Hello,__ __Wikimedians__ __!__
   - "Another thing: Sometime I like complexity but some, minimality"
 
 ## Repo Structure
+- FOR_AUTHOR_TODO_ONROOTSTRUCTURECHANGED: For author reminder file
 - GitHubInstruction: contains instructions when I handle or work on GitHub things
-- license_template: contains license template
+- GITHUB_TODO: This file is for telling TODO tasks for my repos and my GitHub public-visibled stuff
 - LICENSE: License that currently apply on this repo at the time of each commit.
+- license_template: contains license template
+- MYSELF_UUID: UUID of myself in case of real name is no longer unique.
 - README.md: This info. file
 - RepoListDetails: List of registered of my all GitHub repos. Including their details. (Exclude forked repo that  are not registered)
-- FOR_AUTHOR_TODO_ONROOTSTRUCTURECHANGED: For author reminder file
-- MYSELF_UUID: UUID of myself in case of real name is no longer unique.
