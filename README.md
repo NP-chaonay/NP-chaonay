@@ -38,7 +38,7 @@ and newly __Hello,__ __Musicians__ and __Hello,__ __Wikimedians__ __!__
 - 💭️ Reasons why I'm here at GitHub/Gist: _"To publish my software, To see what's going on or being popular, To know one's codes."_
 - 💾 My most 3 dominant projects/sources on GitHub/Gist (Descending): _"See on pinned repo./Gists."_
 
-- 🔭 I’m currently working on _"Surface Laptop Studio Pen/Touch on Linux experiement"_
+- 🔭 I’m currently working on _"Linux-Surface"_
 - 🌱 I’m currently learning _"University Bachelor Degree"_
 - 👯 I’m looking to collaborate on _"Linux and Open-Source community"_
 - 🤔 I’m looking for help with _"NP-chaonay/Misc/SurfaceLaptopStudio_LinuxAudioTweak_OnDevicePosture/"_
