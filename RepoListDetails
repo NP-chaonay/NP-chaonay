@@ -18,6 +18,9 @@
 	+ (Fork repo) howdy_fixissue1_retake1
 		License = NotAvailableYet_WaitAdding
 		Tags += [BugFix,OpenCollaborationDesigned]
+	+ MacrodroidMainRepo
+		License = Custom_with_MIT_fallback (internally from Main_with_MIT_fallback_v1)
+		Tags += [OnlyMainBranch,WaitForDiscussionInit]
 	(wait for adding) ...
 
 [AvailableTags]
@@ -26,7 +29,7 @@
 - OnlyMainBranch: "Repo that designed to have one branch, or not designed to require using branch feature"
 - ThaiLocalization
 - BugFix
-- OpenCollaborationDesigned: "Repo that wel-designed to have outside-contribution"
+- OpenCollaborationDesigned: "Repo that well-designed to have outside-contribution"
 
 [Remarks]
 - "internally from" in context of license parameter means: what license template in my collection is used
